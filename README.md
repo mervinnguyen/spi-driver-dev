@@ -7,11 +7,18 @@ on modularity, low-level register access, and efficient data transfer.
 ## 📌 Features
 
 -SPI Master mode support
+
 -Full-duplex communication
+
 -Configurable clock polarity (CPOL) and phase (CPHA)
+
 -Manual or DMA-based data transfer
+
 -Interrupt and polling-based transmission
+
 -Chip Select (CS) management
+
 -Initialization, configuration, and cleanup functions
+
 
 ## 📁 Project Structure
